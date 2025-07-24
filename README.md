@@ -1,5 +1,5 @@
 # MySQL-Ecommerce-Project
-**ShopSphere- A Complete E-commerce SQL Engine** built using MySQL Workbench — includes schema, sample queries, and project presentation.**ShopSphere** is a fully functional SQL-based backend for a mock e-commerce platform. It was built using **MySQL Workbench** and simulates the complete database layer of an online shopping system.
+**ShopSphere- A Complete E-commerce SQL Engine** built using MySQL Workbench — includes schema, sample queries, and project presentation. **ShopSphere** is a fully functional SQL-based backend for a mock e-commerce platform. It was built using **MySQL Workbench** and simulates the complete database layer of an online shopping system.
 
  **Project Features**
 -  Designed and normalized **10+ relational tables**
